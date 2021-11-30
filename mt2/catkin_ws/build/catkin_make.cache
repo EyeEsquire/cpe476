@@ -1,0 +1,2 @@
+jbot/launch_jbot:jbot/localization_data_pub:ros-imu-bno055
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/catkin_ws/install -G Unix Makefiles
